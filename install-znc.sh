@@ -1,5 +1,5 @@
 apt-get update
-wget http://znc.in/releases/znc-1.0.tar.gz
+wget http://znc.in/releases/znc-1.2.tar.gz
 tar -xzvf znc*.*gz
 cd znc*
 aptitude install build-essential -y
